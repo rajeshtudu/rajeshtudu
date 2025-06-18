@@ -1,16 +1,36 @@
-## Hi there 👋
+# Rajesh Tudu
 
-<!--
-**rajeshtudu/rajeshtudu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨‍💻 Data Scientist | Machine Learning | Artificial Intelligence | Python Enthusiast
 
-Here are some ideas to get you started:
+I'm passionate about leveraging data to solve real-world problems, specializing in AI, machine learning, and data science projects. I enjoy working on innovative solutions using Python and open-source tools.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧑‍🔬 Projects
+
+Here you will find all my GitHub repositories related to:
+- Data Science
+- Machine Learning
+- Artificial Intelligence
+- Python scripting
+- Data Analysis
+
+---
+
+## 🌏 Interests
+
+- Travelling
+- Music
+- Creating new AI/ML/Data Science projects
+
+---
+
+## 🌐 Connect with me
+
+- [Facebook](https://www.facebook.com/rajesh.tudu.200876)
+- [LinkedIn](https://www.linkedin.com/in/rajesh-tudu/)
+- [Instagram](https://www.instagram.com/razestudu/)
+
+---
+
+Feel free to explore my repositories and connect!
