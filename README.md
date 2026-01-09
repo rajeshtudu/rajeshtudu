@@ -21,7 +21,7 @@ Here you will find all my GitHub repositories related to:
 
 - Travelling
 - Music
-- Creating new AI/ML/Data Science projects
+- Working new AI/ML/Data Science projects
 
 ---
 
